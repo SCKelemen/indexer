@@ -16,3 +16,5 @@ func main() {
 	indexer.AddIndexer(ri)
 	indexer.AddIndexer(si)
 }
+
+// add trigrams
